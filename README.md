@@ -1,0 +1,1 @@
+# Isi dengan gambar yang ingin dikirim Bot
